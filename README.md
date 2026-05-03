@@ -33,6 +33,11 @@ Each packet is processed to extract:
 - Timestamp  
 
 The data is printed and saved for monitoring purposes.
+The extracted information is printed to the console and simultaneously stored in a log file for analysis.
+
+## 📂 Output
+Captured packet details are stored in:
+packets.txt
 
 ## 📚 References
 [1] M. A. Qadeer et al., “Network Traffic Analysis and Intrusion Detection Using Packet Sniffer,” 2010.  
